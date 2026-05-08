@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello fellow pair of eyes! My name is Harsh and I'm a Computer Engineering Graduate from the University of Mumbai. I love learning Java and I can say I have an intermediate knowledge about it. I'm currently learning the language more with a steady pace and also learning about Flutter framework for building various cross-platform applications.
+
+Here to learn more about the various frameworks I can put my knowledge into use and build various wonderful applications and work on projects! When I'm not in front of a screen, I love reading novels of various genres, began with authoritarian then existential followed by Shakespearean plays and currently into horror genre from the writer Stephen King. I love digital casio watches and cats!
+
+## Skills:
+Android Development, Public Speaking, Team Collaboration, Problem Solving
+
+## Tools:
+
+
+
