@@ -22,6 +22,8 @@ Here to learn more about the various frameworks I can put my knowledge into use 
 ## Skills:
 Android Development, Public Speaking, Team Collaboration, Problem Solving
 
+## Languages:
+
 ## Tools:
 
 
