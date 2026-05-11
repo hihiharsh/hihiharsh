@@ -23,6 +23,7 @@ Here to learn more about the various frameworks I can put my knowledge into use 
 Android Development, Public Speaking, Team Collaboration, Problem Solving
 
 ## Languages:
+<img src="https://github.com/hihiharsh/hihiharsh/blob/main/profileRepositoryImages/java.svg" alt="java" width="50" height="75">  <img src="https://github.com/hihiharsh/hihiharsh/blob/main/profileRepositoryImages/c-plusplus.svg" alt="c-plusplus" width="50" height="75">  <img src="https://github.com/hihiharsh/hihiharsh/blob/main/profileRepositoryImages/dart.svg" alt="dart" width="50" height="75">  <img src="https://github.com/hihiharsh/hihiharsh/blob/main/profileRepositoryImages/python.svg" alt="python" width="50" height="75">
 
 ## Tools:
 
